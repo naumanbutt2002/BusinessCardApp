@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="fName">Muhammad Nauman</string>
+    <string name="title">Android Developer Extraordinaire</string>
+
+    <string name="phNo">+92 342-6827224</string>
+    <string name="username">\@naumanbutt2002</string>
+    <string name="mail">naumanbutt2002@gmail.com</string>
+
+    <string name="profileDesc">Profile Image</string>
+    <string name="phDesc">Phone Icon</string>
+    <string name="shareDesc">Share Icon</string>
+    <string name="mailDesc">Mail Icon</string>
+</resources>
